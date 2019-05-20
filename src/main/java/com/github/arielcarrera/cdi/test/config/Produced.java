@@ -1,4 +1,4 @@
-package com.github.arielcarrera.cdi.test.entities;
+package com.github.arielcarrera.cdi.test.config;
 import static java.lang.annotation.ElementType.FIELD;
 import static java.lang.annotation.ElementType.METHOD;
 import static java.lang.annotation.ElementType.PARAMETER;

@@ -4,6 +4,11 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
+/**
+ * Simple entity for testing purpose
+ * @author Ariel Carrera
+ *
+ */
 @Entity
 public class FooEntity {
 
